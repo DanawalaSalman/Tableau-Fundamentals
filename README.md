@@ -1,4 +1,4 @@
-# Data Visualization Project ReadMe
+# Data Visualization Project
 
 ## Project Overview
 
